@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI developer from Turkey</h3>
 <br><br>
 - 🎓 I graduated from Yozgat Bozok University Electrical Electronics Engineering department.<br>
-- 📝 I regularly write articles on [ismaildurcan.com.tr](ismaildurcan.com.tr)<br>
+- 📝 I regularly write articles on [ismaildurcan.com.tr](https://ismaildurcan.com.tr) <br>
 - 📫 How to reach me **ismaildurcan40@gmail.com**<br>
 
 <h3 align="left">Connect with me:</h3>
