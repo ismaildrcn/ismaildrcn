@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Profile;I'm+Ismail+DURCAN;I'm+interested+in;Application+Development;Machine+Learning;Deep+Learning+and;Data+Science&font=Kalam&center=true&width=650&height=120&color=0c7eff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+My+Profile;I'm+Ismail+DURCAN;I'm+interested+in;Application+Development;Machine+Learning;Deep+Learning+and;Data+Science&font=Roboto&center=true&width=650&height=120&color=0c7eff&vCenter=true&size=45%22"></a>
 </p>
 <h3 align="center">A passionate AI developer from Turkey</h3>
 <br><br>
